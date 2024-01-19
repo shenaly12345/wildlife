@@ -188,7 +188,7 @@ img.align-right{
 }
 
 /* Media query for phone screens  */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
     .phone {
         width: 100%; 
         margin: 6px; /* Adjust margin for smaller spacing */
