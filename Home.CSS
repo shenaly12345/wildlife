@@ -163,7 +163,7 @@ img.align-right{
     font-weight: 900;
 }
 /*media queries for tablet*/
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
     .img1 {
         width: 100%; /* Make the image responsive, taking 100% of the width */
         height: auto; /* Allow the height to adjust proportionally */
